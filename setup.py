@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 setup(name='lda_package',
-      version='0.1',
+      version='0.2',
       description='Implementation of Latent Dirichlet Allocation',
       url='https://github.com/yangbaovera/lda_package',
       author='Yang Bao, Wenlin Wu',
